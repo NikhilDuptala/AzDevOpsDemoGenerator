@@ -28,6 +28,7 @@
             public string FolderName { get; set; }
             public List<FolderL2> FolderL2 { get; set; }
             public List<FolderItem> FolderItems { get; set; }
+            // new changes
         }
 
         public class SourceDirectoriesFiles
